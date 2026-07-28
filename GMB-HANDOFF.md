@@ -14,6 +14,8 @@ Create and launch Coat Harbor Mobile Car Detailing Houston as site 40 of the 100
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - GitHub: https://github.com/DaInfernalCoder/coat-harbor-mobile-car-detailing-houston
 - Vercel project: https://vercel.com/dainfernalcoders-projects/coat-harbor-mobile-car-detailing-houston
+- Live website: https://coatharbor.shop
+- Apex and `www` HTTPS: verified with the assigned phone
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
 
@@ -28,7 +30,7 @@ The public phone is confirmed. The street address has not been supplied; do not 
 - [x] Domain registered
 - [x] Local preflight and browser QA passed
 - [x] Public GitHub repository and Vercel production project created
-- [ ] Apex and `www` attached; registrar DNS saved
+- [x] Apex and `www` attached; registrar DNS saved and HTTPS verified
 - [x] Phone supplied and call links completed
 - [ ] Address supplied and final `GMB-INFO.txt` completed
 - [x] Phone/address-independent logo and photo pack completed
@@ -44,4 +46,4 @@ The confirmed street address is required for final `GMB-INFO.txt` and GeoStamp c
 
 ## Exact next action
 
-Attach apex and `www`, save registrar DNS, and await the confirmed street address.
+Await the confirmed street address, then complete `GMB-INFO.txt` and GeoStamp.
