@@ -9,6 +9,7 @@ Create and launch Coat Harbor Mobile Car Detailing Houston as site 40 of the 100
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
 - Registered domain: `coatharbor.shop`
+- Public phone: `+1 346-645-6236`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
@@ -16,7 +17,7 @@ Create and launch Coat Harbor Mobile Car Detailing Houston as site 40 of the 100
 
 ## Truth constraints
 
-Phone and street address have not been supplied. Do not invent them. Licensed stock imagery is illustrative and must not be presented as completed Coat Harbor work.
+The public phone is confirmed. The street address has not been supplied; do not invent it. Licensed stock imagery is illustrative and must not be presented as completed Coat Harbor work.
 
 ## Acceptance checklist
 
@@ -26,18 +27,18 @@ Phone and street address have not been supplied. Do not invent them. Licensed st
 - [x] Local preflight and browser QA passed
 - [ ] Public GitHub repository and Vercel production project created
 - [ ] Apex and `www` attached; registrar DNS saved
-- [ ] Phone supplied and call links completed
+- [x] Phone supplied and call links completed
 - [ ] Address supplied and final `GMB-INFO.txt` completed
-- [ ] GMB image pack completed
+- [x] Phone/address-independent logo and photo pack completed
 - [ ] GeoStamp synced
 
 ## Draft GBP description
 
-Coat Harbor Mobile Car Detailing Houston helps Houston drivers arrange careful interior and exterior vehicle care across Houston, Texas. This Car Detailing Houston service focuses on cabin surfaces, exterior panels, wheels, glass, and visible finish details for drivers in Houston, Texas. Coat Harbor Mobile Car Detailing Houston keeps the service scope tied to the vehicle's current condition and the areas the driver wants addressed. Drivers can use this Car Detailing Houston service for interior, exterior, or complete detailing arranged throughout Houston, Texas. Coat Harbor Mobile Car Detailing Houston offers online scheduling now, with its confirmed public phone added at final handoff.
+Coat Harbor Mobile Car Detailing Houston helps Houston drivers arrange careful interior and exterior vehicle care across Houston, Texas. This Car Detailing Houston service focuses on cabin surfaces, exterior panels, wheels, glass, and visible finish details for drivers in Houston, Texas. Coat Harbor Mobile Car Detailing Houston keeps the service scope tied to the vehicle's current condition and the areas the driver wants addressed. Drivers can use this Car Detailing Houston service for interior, exterior, or complete detailing arranged throughout Houston, Texas. Coat Harbor Mobile Car Detailing Houston offers phone and online scheduling for Car Detailing Houston across Houston, Texas.
 
 ## Blocker
 
-Phone and address are required for final call links and GMB completion.
+The confirmed street address is required for final `GMB-INFO.txt` and GeoStamp completion.
 
 ## Exact next action
 
