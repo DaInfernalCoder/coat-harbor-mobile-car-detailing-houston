@@ -10,6 +10,7 @@ Create and launch Coat Harbor Mobile Car Detailing Houston as site 40 of the 100
 - Market: Houston, Texas
 - Registered domain: `coatharbor.shop`
 - Public phone: `+1 346-645-6236`
+- Street address: `1150 Eldridge Pkwy S, Houston, TX 77077`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - GitHub: https://github.com/DaInfernalCoder/coat-harbor-mobile-car-detailing-houston
@@ -21,7 +22,7 @@ Create and launch Coat Harbor Mobile Car Detailing Houston as site 40 of the 100
 
 ## Truth constraints
 
-The public phone is confirmed. The street address has not been supplied; do not invent it. Licensed stock imagery is illustrative and must not be presented as completed Coat Harbor work.
+The public phone and street address are confirmed as supplied by the owner. Licensed stock imagery is illustrative and must not be presented as completed Coat Harbor work.
 
 ## Acceptance checklist
 
@@ -32,7 +33,7 @@ The public phone is confirmed. The street address has not been supplied; do not 
 - [x] Public GitHub repository and Vercel production project created
 - [x] Apex and `www` attached; registrar DNS saved and HTTPS verified
 - [x] Phone supplied and call links completed
-- [ ] Address supplied and final `GMB-INFO.txt` completed
+- [x] Address supplied and final `GMB-INFO.txt` completed
 - [x] Phone/address-independent logo and photo pack completed
 - [ ] GeoStamp synced
 
@@ -42,8 +43,8 @@ Coat Harbor Mobile Car Detailing Houston helps Houston drivers arrange careful i
 
 ## Blocker
 
-The confirmed street address is required for final `GMB-INFO.txt` and GeoStamp completion.
+GeoStamp synchronization remains outstanding.
 
 ## Exact next action
 
-Await the confirmed street address, then complete `GMB-INFO.txt` and GeoStamp.
+Sync the confirmed address to GeoStamp.
