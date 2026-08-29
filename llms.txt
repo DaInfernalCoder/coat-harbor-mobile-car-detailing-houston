@@ -14,3 +14,14 @@
 - Service: Appointment-based mobile car detailing
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Google review profile: https://g.page/r/CVR5xFiy59eEEBM/review
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://coatharbor.shop/services/)
+- [Interior Car Detailing](https://coatharbor.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://coatharbor.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://coatharbor.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://coatharbor.shop/services/headlight-restoration/)
+- [About](https://coatharbor.shop/about/)
+- [Contact](https://coatharbor.shop/contact/)
+<!-- SEO-NEXT:END -->
