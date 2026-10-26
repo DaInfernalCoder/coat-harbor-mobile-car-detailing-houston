@@ -8,14 +8,14 @@ Create and launch Coat Harbor Mobile Car Detailing Houston as site 40 of the 100
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `coatharbor.shop`
+- Registered domain: `houstoncardetailinginterior.shop`
 - Public phone: `+1 346-645-6236`
 - Street address: `1150 Eldridge Pkwy S, Houston, TX 77077`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - GitHub: https://github.com/DaInfernalCoder/coat-harbor-mobile-car-detailing-houston
 - Vercel project: https://vercel.com/dainfernalcoders-projects/coat-harbor-mobile-car-detailing-houston
-- Live website: https://coatharbor.shop
+- Live website: https://houstoncardetailinginterior.shop
 - Apex and `www` HTTPS: verified with the assigned phone
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow

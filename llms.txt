@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in Houston, Texas.
 
 ## Primary pages
-- [Homepage](https://coatharbor.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://coatharbor.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://coatharbor.shop/#local-detailing): How mobile detailing works in Houston.
+- [Homepage](https://houstoncardetailinginterior.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://houstoncardetailinginterior.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://houstoncardetailinginterior.shop/#local-detailing): How mobile detailing works in Houston.
 
 ## Verified business facts
 - Business name: Coat Harbor Mobile Car Detailing Houston
@@ -17,11 +17,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://coatharbor.shop/services/)
-- [Interior Car Detailing](https://coatharbor.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://coatharbor.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://coatharbor.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://coatharbor.shop/services/headlight-restoration/)
-- [About](https://coatharbor.shop/about/)
-- [Contact](https://coatharbor.shop/contact/)
+- [Services](https://houstoncardetailinginterior.shop/services/)
+- [Interior Car Detailing](https://houstoncardetailinginterior.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://houstoncardetailinginterior.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://houstoncardetailinginterior.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://houstoncardetailinginterior.shop/services/headlight-restoration/)
+- [About](https://houstoncardetailinginterior.shop/about/)
+- [Contact](https://houstoncardetailinginterior.shop/contact/)
 <!-- SEO-NEXT:END -->
