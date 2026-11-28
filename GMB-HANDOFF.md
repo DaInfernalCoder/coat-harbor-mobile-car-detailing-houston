@@ -12,7 +12,7 @@ Create and launch Coat Harbor Mobile Car Detailing Houston as site 40 of the 100
 - Public phone: `+1 346-645-6236`
 - Street address: `1150 Eldridge Pkwy S, Houston, TX 77077`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
-- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Booking: https://houstoncardetailinginterior.shop/scheduling
 - GitHub: https://github.com/DaInfernalCoder/coat-harbor-mobile-car-detailing-houston
 - Vercel project: https://vercel.com/dainfernalcoders-projects/coat-harbor-mobile-car-detailing-houston
 - Live website: https://houstoncardetailinginterior.shop
